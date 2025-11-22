@@ -2,7 +2,8 @@
 A complete end-to-end data analytics project focusing on Uber bookings, revenue, distance, and service quality metrics.  
 This dashboard provides deep insights into operational efficiency, financial performance, and rider–driver experience — enabling data-driven decision-making for mobility platforms.
 ---
-<img width="1169" height="628" alt="image" src="https://github.com/user-attachments/assets/a72379bf-40e8-44ff-a314-a372b3c1f7ab" />
+<img width="1739" height="977" alt="image" src="https://github.com/user-attachments/assets/afb2b011-e8fb-473d-a672-347da4036567" />
+
 
 
 ## 📌 Project Overview
