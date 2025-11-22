@@ -2,6 +2,7 @@
 A complete end-to-end data analytics project focusing on Uber bookings, revenue, distance, and service quality metrics.  
 This dashboard provides deep insights into operational efficiency, financial performance, and rider–driver experience — enabling data-driven decision-making for mobility platforms.
 ---
+<img width="1169" height="628" alt="image" src="https://github.com/user-attachments/assets/a72379bf-40e8-44ff-a314-a372b3c1f7ab" />
 
 
 ## 📌 Project Overview
@@ -97,8 +98,11 @@ Additional Features:
 ## 📬 Contact
 **Md. Raihan Islam**  
 Data Analyst | Power BI | SQL | Business Insights  
-🔗 LinkedIn: [mi ](https://www.linkedin.com/in/imdraihanislam3/) 
+🔗 LinkedIn: [Raihan Islam ](https://www.linkedin.com/in/imdraihanislam3/) 
 📧 Email: imdraihanislam3@gmail.com
 ---
+
+<img width="1794" height="971" alt="image" src="https://github.com/user-attachments/assets/539beae5-a287-4b2e-9c0c-fffcb8f30290" />
+
 
 ## ⭐ If you like this project, don’t forget to star the repo!
