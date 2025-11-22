@@ -1,4 +1,4 @@
-# 🚕 Uber Data Analysis & KPI Dashboard  
+# 🚕 RideMetrics: Uber Booking & Revenue Intelligence  
 A complete end-to-end data analytics project focusing on Uber bookings, revenue, distance, and service quality metrics.  
 This dashboard provides deep insights into operational efficiency, financial performance, and rider–driver experience — enabling data-driven decision-making for mobility platforms.
 ---
